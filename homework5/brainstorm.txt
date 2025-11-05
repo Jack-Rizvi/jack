@@ -1,4 +1,0 @@
-- Optics, Orbital Mechanics, Visualization, Rocketry, Particle Physics
-- poliastro: python library for astrodynamics, great for an orbital mechanics project. Manim: visualization library in python to look like the YouTuber 3Blue1Brown. NASA article on orbital mechanics which gives a basic outline on how complex we can make our code while still being accurate, https://spsweb.fltops.jpl.nasa.gov/portaldataops/mpg/MPG_Docs/MPG%20Book/Release/Chapter7-OrbitalMechanics.pdf.
-- Loops, especially efficient loops, are very important for making a simulation like project run smoothly, since the speed of the code executing is what determines how "fast" the game/simulation runs.
-- A long term idea would be a full orbital mechanics simulation with a 3Blue1Brown aesthetic, complete with tweakable parameters and objectives. A short term idea would be just simulating a single 2-body orbit with nice visuals.
